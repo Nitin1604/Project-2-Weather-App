@@ -24,7 +24,7 @@ Before image resizer process : (https://youtu.be/fqF9M92jzUo?si=VoCrEYrg-GPpuVD2
 _________________________________________________________________________________________________________________________
 Image before resizing : (https://youtu.be/fqF9M92jzUo?t=9463) | (Project 3 : Image resizer)
 __________________________________________________________________________________________________
-Image after resizing : (https://youtu.be/fqF9M92jzUo?t=9464) | (Project 3 : Image Resizer
+Image after resizing (Project 3 : Image Resizer)
 __________________________________________________________________________________________________
 ![image](https://github.com/Nitin1604/Weather-App/assets/80270629/7aedb2e3-2681-4591-b820-0fb63a7c5173)
 
