@@ -31,4 +31,8 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/fqF9M92jzUo?t=9505) | Timestamps => (02:38:23) | Project 4: PDF Merger | This is already done in Day 82 of Python #100DaysOfCode Challenge 
 ____________________________________________________________________________________________________________________________________________________________________________
 Playlist Link for Python #100DaysOfCode : (https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
+____________________________________________________________________________________________________________________________________________________________________________
+# Facial Recognition Attendance System    
+____________________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/fqF9M92jzUo?si=jeKQ8sc_KPEMe32_&t=9847) | Timestamps => 02:44:06 | Project 5: Facial Recognition Attendance System    
 
