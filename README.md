@@ -17,4 +17,7 @@ ________________________________________________________________________________
 Image shown with the help of python code : (https://youtu.be/fqF9M92jzUo?si=r2n_t4qGxaCKcaUa&t=9180) | (Project 3: Image Resizer)
 __________________________________________________________________________________________________________________________________
 Image resizer done : (https://youtu.be/fqF9M92jzUo?t=9328) | (Project 3: Image Resizer) 
-________________________________________________________________________________________
+_________________________________________________________________________________________________________________________
+When image resizer was done : (https://youtu.be/fqF9M92jzUo?si=VG242tczAm2DERl5&t=9335) | (Project 3: Image Resizer)
+_________________________________________________________________________________________________________________________
+When image resizer was not done : (https://youtu.be/fqF9M92jzUo?si=EJxzXDVe9FihfffG) | (Project 3: Image Resizer)
