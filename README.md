@@ -27,6 +27,8 @@ Image before resizing (Project 3 : Image resizer)
 __________________________________________________________________________________________________
 Image after resizing (Project 3 : Image Resizer)
 ![image](https://github.com/Nitin1604/Weather-App/assets/80270629/7aedb2e3-2681-4591-b820-0fb63a7c5173)
-__________________________________________________________________________________________________________
-YouTube Link : (https://youtu.be/fqF9M92jzUo?t=9505) | Timestamps => (02:38:23) | Project 4: PDF Merger       
+____________________________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/fqF9M92jzUo?t=9505) | Timestamps => (02:38:23) | Project 4: PDF Merger | This is already done in Day 82 of Python #100DaysOfCode Challenge 
+____________________________________________________________________________________________________________________________________________________________________________
+Playlist Link for Python #100DaysOfCode : (https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 
