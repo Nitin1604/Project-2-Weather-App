@@ -18,6 +18,6 @@ Image shown with the help of python code : (https://youtu.be/fqF9M92jzUo?si=r2n_
 __________________________________________________________________________________________________________________________________
 Image resizer done : (https://youtu.be/fqF9M92jzUo?t=9328) | (Project 3: Image Resizer) 
 _________________________________________________________________________________________________________________________
-Before image resizer process : (https://youtu.be/fqF9M92jzUo?si=VG242tczAm2DERl5&t=9335) | (Project 3: Image Resizer)
+After image resizer process : (https://youtu.be/fqF9M92jzUo?si=VG242tczAm2DERl5&t=9335) | (Project 3: Image Resizer)
 _________________________________________________________________________________________________________________________
-After image resizer process : (https://youtu.be/fqF9M92jzUo?si=EJxzXDVe9FihfffG) | (Project 3: Image Resizer)
+Before image resizer process : (https://youtu.be/fqF9M92jzUo?si=EJxzXDVe9FihfffG) | (Project 3: Image Resizer)
