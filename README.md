@@ -21,3 +21,7 @@ ________________________________________________________________________________
 After image resizer process : (https://youtu.be/fqF9M92jzUo?si=VG242tczAm2DERl5&t=9335) | (Project 3: Image Resizer)
 _________________________________________________________________________________________________________________________
 Before image resizer process : (https://youtu.be/fqF9M92jzUo?si=VoCrEYrg-GPpuVD2&t=8911) | (Project 3: Image Resizer)
+_________________________________________________________________________________________________________________________
+Image before resizing : (https://youtu.be/fqF9M92jzUo?t=9463) | (Project 3 : Image resizer)
+__________________________________________________________________________________________________
+Image after resizing : (https://youtu.be/fqF9M92jzUo?t=9466) | (Project 3 : Image Resizer)
