@@ -12,4 +12,6 @@ ________________________________________________________________________________
 Create your account on weather api and then use your own weather api key
 ________________________________________________________________________________________
 # Image Resizer Project
-https://youtu.be/fqF9M92jzUo?t=8788 | Timestamps => 02:26:12 | (Project 3: Image Resizer)    
+https://youtu.be/fqF9M92jzUo?t=8788 | Timestamps => 02:26:12 | (Project 3: Image Resizer)   
+__________________________________________________________________________________________________________________________________
+Image shown with the help of python code : (https://youtu.be/fqF9M92jzUo?si=r2n_t4qGxaCKcaUa&t=9180) | (Project 3: Image Resizer)
