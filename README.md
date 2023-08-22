@@ -1,4 +1,4 @@
-# Project-2-Weather-App
+# Weather-App
 Python Weather App Project 
 ________________________________________________________________________________________
 Timestamps => (02:17:01 - Project 2: Weather App)
